@@ -4,6 +4,7 @@
 
 module.exports = {
   maximum: function(array) {
+    return Math.max(array);
   },
 
   minimum: function(array) {
